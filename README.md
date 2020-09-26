@@ -1,4 +1,4 @@
 # hello-world
 test
 
-Exercise psychology neuroscience student with a primary interest in neuroscience.
+Exercise psychology student with a primary interest in neuroscience.
